@@ -1,10 +1,18 @@
 # 110360125 smartCar
-110360125
 智能汽車的優點:
+1.可以自動駕駛
 ![image](https://img.technews.tw/wp-content/uploads/2019/05/24142002/Tesla-e1558678816488.jpg)
-可以自動駕駛，如圖所示這是自動駕駛的介面。
+如圖所示這是Tesla自動駕駛的介面，可以看到螢幕上顯示導航跟車的狀況。
+2.低噪音
+3.無廢氣排放
 
-The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
+智能汽車的缺點:
+1.導致工作職缺減少，例如:計程車師機
+2.價格高
+![image](https://img.ltn.com.tw/Upload/business/page/800/2020/04/27/218.jpg)
+如圖所示為充電樁給電動車充電
+
+the smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
 
 
 
