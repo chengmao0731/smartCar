@@ -1,6 +1,8 @@
 # 110360125 smartCar
 110360125
-智能汽車的優點
+智能汽車的優點:
+![image](https://img.technews.tw/wp-content/uploads/2019/05/24142002/Tesla-e1558678816488.jpg)
+可以自動駕駛，如圖所示這是自動駕駛的介面。
 
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
 
